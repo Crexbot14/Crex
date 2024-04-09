@@ -4,3 +4,4 @@ asyncpg
 requests
 aiohttp
 pymongo
+flask
